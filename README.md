@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Varun @racesingh
+- 👋 Hi, I’m Varun @vs-js
 - 👀 I’m interested in buidling websites, books, coding, stocks
 - 🌱 I’m currently learning HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on ...
